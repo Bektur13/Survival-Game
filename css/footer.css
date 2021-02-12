@@ -1,0 +1,71 @@
+footer{
+    position: absolute;
+    left: 200px;
+    top: 5500px;
+}
+.footer__top{
+    display: flex;
+    justify-content: space-between;
+}
+.footer__menu{
+    align-self: center;
+    margin-left: 100px;
+}
+.footer__line{
+    margin-top: 30px;
+    background: #ffffff;
+    width: 100%;
+    height: 2px;
+    opacity: 50%;
+}
+.footer__social{
+    align-self: center;
+    margin-left: 50px;
+}
+.Facebook{
+    text-decoration: none;
+    margin-right: 20px;
+    fill: white;
+    transition: 0.3s;
+}
+.Facebook:hover{
+    fill: #2a52be;
+}
+.Twitter{
+    text-decoration: none;
+    margin-right: 20px;
+    fill: #ffffff;
+    transition: 0.3s;
+}
+.Twitter:hover{
+    fill: #0CAFFF;
+}
+.YouTube{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.Twitch{
+    text-decoration: none;
+    fill: #ffffff;
+    transition: 0.3s;
+}
+.Twitch:hover{
+    fill: #540979;
+}
+.footer__foot{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 22px;
+    font-size: 14px;
+}
+.foot__left{
+    color: #ffffff;
+    opacity: 0.5;
+    font-family: 'Open Sans', sans-serif;
+}
+.foot__right{
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 16px;
+}

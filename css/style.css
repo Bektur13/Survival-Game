@@ -1,0 +1,14 @@
+@import "./base.css";
+@import "./header.css";
+@import "./hero.css";
+@import "./battle.css";
+@import "./features.css";
+@import "./system.css";
+@import "./quotes.css";
+@import "./news.css";
+@import "./footer.css";
+@import "./media.css";
+@font-face{
+    src: url(../fonts/BebasNeue-Regular.ttf);
+    font-family: "Bebas Neue"; 
+} 

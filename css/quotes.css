@@ -1,0 +1,113 @@
+.quotes{
+    background: url(../img/quotes.jpg) no-repeat center top/cover;
+    padding-top: 160px;
+}
+.quotes__content{
+    display: flex;
+}
+.col-6{
+    margin-right: 100px;
+}
+.quotes__subtitle{
+    font-size: 24px;
+    font-family: "Bebas Neue";
+    letter-spacing: 3px;
+    color: #ffffff;
+    padding-top: 150px;
+}
+.quotes__title{
+    font-size: 80px;
+    font-family: "Bebas Neue";
+    letter-spacing: 3px;
+    color: #ffffff;
+    width: 430px;
+}
+.quotes__name{
+    font-size: 24px;
+    color: #FFB548;
+    font-family: "Bebas Neue";
+    letter-spacing: 2px;
+    margin-top: -70px;
+    margin-left: 120px;
+}
+.quotes__description{
+    max-width: 420px;
+    text-align: justify;
+    color: #ffffff;
+    margin: 20px 0;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 22px;
+}
+.quotes__date1{
+    font-size: 14px;
+    color: #ffffff;
+    opacity: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.quotes__date{
+    font-size: 14px;
+    color: #ffffff;
+    opacity: 50%;
+    margin-left: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.quotes__review{
+    color: #ffffff;
+    margin-top: 40px;
+    margin-left: 16px;
+    max-width: 355px;
+    font-family: 'Open Sans', sans-serif;
+}
+.quotes__work{
+    color: #ffffff;
+    opacity: 50%;
+    margin-left: 120px;
+    margin-top: -20px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 22px;
+    letter-spacing: 1px;
+}
+.quotes__img{
+    width: 63px;
+    height: 63px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+.quotes__oval{
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background: #FFB548;
+    margin-top: -60px;
+    margin-left: 33px;
+}
+.quotes__box1{
+    width: 450px;
+    height: 183px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+}
+.quotes__box2{
+    width: 455px;
+    height: 183px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+}
+.quotes__box3{
+    width: 455px;
+    height: 183px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-bottom: 200px;
+}
+.twitter{
+    margin-left: 410px;
+    margin-top: 20px;
+}

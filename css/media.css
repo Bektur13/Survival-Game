@@ -1,0 +1,233 @@
+@media screen and (max-width: 320px){
+    .header__menu{
+        display: none;
+    }
+    .hero__title{
+        font-size: 33px;
+    }
+    .hero__subtitle{
+        font-size: 18px;
+        margin-top: -20px;
+        text-align: center;
+    }
+    .hero__foot{
+        margin-top: 100px;
+    }
+
+    .battle__content{
+        padding-top: 10px;
+        flex-wrap: wrap;
+    }
+    .battle__title{
+        margin-left: 10px;
+        width: 200px;
+        font-size: 33px;
+        margin-top: 1px;
+    }
+    .battle__subtitle{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .slick-list{
+        max-width: 300px;
+    }
+    .battle__description{
+        font-size: 14px;
+        margin-left: 20px;
+    }
+    .battle__line{
+        width: 300px;
+        margin-left: 10px;
+    }
+    .img{
+        width: 300px;
+        margin-left: 50px;
+    }
+    .slick-arrow.slick-next{
+        margin-right: 50px;
+    }
+    .features__left{
+        margin-left: 10px;
+        top: 72px;
+    }
+    .features__right{
+        margin-left: 50px;
+        margin-top: 1px;
+    }
+    .features__title{
+        margin-top: -20px;
+        font-size: 18px;
+    }
+    .features__home{
+        margin-top: -20px;
+        font-size: 18px;
+    }
+    .features__subtitle{
+        font-size: 18px;
+    }
+    .features__description{
+        font-size: 14px;
+    }
+    .features__line{
+        height: 85px;
+    }
+    .transparent__circle{
+        margin-bottom: 25px;
+    }
+
+    .system__title{
+        margin-top: -20px;
+        font-size: 33px;
+    }
+    .system__square{
+        display: none;
+    }
+    .system__block{
+        background: url(../img/Block.svg) no-repeat center;
+        margin-top: -150px;
+        margin-left: -10px;
+    }
+    .system__subtitle{
+        font-size: 18px;
+        letter-spacing: 2px;
+        margin-top: -80px;
+    }
+    .memory{
+        width: 100px;
+    }
+    .system__box{
+        margin-left: 30px;
+        margin-top: 130px;
+    }
+    .system__text{
+        margin-top: -20px;
+        font-size: 14px;
+        width: 100px;
+    }
+      
+    .system__foot{
+        margin-left: 40px;
+        margin-top: -20px;
+    }
+    .system__line1{
+        width: 1px;
+        background:#979797;
+        height: 200px;
+        left: 140px;
+        top: 105px;
+    }
+    .system__line2{
+        width: 290px;
+        height: 1px;
+        background: #979797;
+        left: 10px;
+        top: 220px;
+    }
+    .system__line3{
+        width: 290px;
+        height: 1px;
+        background: #979797;
+        left: 10px;
+        top: 305px;
+
+    }
+    .system__description2{
+        margin-left: 10px;
+        margin-top: -170px;
+    } 
+    .foot__text{
+        width: 500px;
+    }
+
+    .Twitter{
+        display: none;
+    }
+    .quotes__content{
+        flex-wrap: wrap;
+    }
+    .quotes__title{
+        font-size: 33px;
+        margin-left: 10px;
+    }
+    .quotes__subtitle{
+        font-size: 18px;
+        margin-left: 10px;
+        letter-spacing: 2px;
+    }
+    .quotes__description{
+        font-size: 14px;
+        margin-left: 10px;
+        width: 280px;
+    }
+    .quotes__box1{
+        margin-top: 20px;
+        margin-left: 0;
+        width: 320px;
+    }
+    .quotes__box2{
+        width: 320px;
+    }
+    .quotes__box3{
+        margin-left: 0;
+        width: 320px;
+    }
+
+    .news__title{
+        font-size: 33px;
+        margin-top: 20px;
+    }
+    .news__subtitle{
+        font-size: 18px;
+    }
+    .news__description{
+        font-size: 14px;
+        width: 180px;
+    }
+    .news__mail{
+        margin-left: 0px;
+    }
+    .news__foot{
+        flex-wrap: wrap;
+        margin-left: -80px;
+    }
+    .news__left{
+        margin-left: -250px;
+    }
+    .skeleton{
+        width: 300px;
+        height: 800px;
+    }
+
+    footer{
+        left: 0px;
+        top: 5000px;
+    }
+    .footer__top{
+        flex-wrap: wrap;
+    }
+    .footer__menu{
+        font-size: 12px;
+        margin: 40px 0 40px 50px;
+    }
+    .footer__social{
+        margin-left: 80px;
+    }
+    .footer__line{
+        width: 280px;
+        margin-left: 20px;
+    }
+    .footer__foot{
+        flex-wrap:wrap;
+        font-size: 12px;
+        margin-left: 25px;
+    }
+    .foot__right{
+        margin-left: 50px;
+        width: 161px;
+        text-align: justify;
+        flex-wrap: wrap;
+    }
+    .end__logo{
+        margin-left: 125px;
+    }
+}

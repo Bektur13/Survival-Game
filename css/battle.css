@@ -1,0 +1,89 @@
+.battle{
+    background: url(../img/battle\ img.jpg) no-repeat center;
+}
+.battle__content{
+    font-family: "Bebas Neue"; 
+    color: #fff;
+    padding-top: 250px;
+    display: flex;
+}
+.battle__subtitle{
+    font-size: 24px;
+}
+.battle__title{
+    margin-top: -30px;
+    font-size: 80px;
+    max-width: 410px;
+    max-height: 155px;
+}
+.battle__line{
+    margin-top: -5px;
+    width: 500px;
+    height: 3px;
+    background: #ffffff;
+    z-index: 12;
+}
+.battle__description{
+    text-align: justify;
+    max-width: 365px;
+    margin-top: 60px;
+    font-size: 20px;
+    margin-left: 200px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 22px;
+}
+
+.slick-list{
+    overflow: hidden;
+}
+.slick-track{
+    display: flex;
+}
+.battle__right{
+    margin-left: 50px;
+    position: relative;
+    width: 600px;
+}
+.slick-arrow{
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    font-size: 0;
+}
+.slick-dots{
+    display: flex;
+    justify-content: center;
+    margin-left: -150px;
+}
+.slick-dots li{
+    list-style: none;
+    margin: 0 10px;
+}
+.slick-dots li.slick-active button{
+    background-color: #fff;
+    border: 1px solid #979797;
+}
+.slick-dots button{
+    width: 5px;
+    height: 13px;
+    background-color: #fff;
+    border: #fff;
+    border-radius: 50%;
+    font-size: 0;
+}
+.slick-arrow.slick-prev{
+    border: #000000;
+    background-color:transparent;
+    height: 50px;
+    left: 0;
+}
+.slick-arrow.slick-next{
+    outline: none;
+    margin-right: 20px;
+    background: url(../img/switch\ \(1\).svg) 0 0 /100% no-repeat;
+    width: 35px;
+    height: 70px;
+    right: 0;
+    border: #000000;
+    margin-top: -80px;
+}

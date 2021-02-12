@@ -1,0 +1,59 @@
+.features{
+    background: url(../img/Features\ img.jpg) no-repeat center top/cover;
+    padding-top: 170px;
+}
+.features__content{
+    position: relative;
+    padding-bottom: 150px;
+}
+.white__circle{
+    max-width: 14px;
+    height: 14px;
+    background: #ffffff;
+    border-radius: 20px;
+}
+.features__line{
+    height: 140px;
+    width: 2px;
+    background: #ffffff;
+    margin-left: 6px;
+}
+.transparent__circle{
+    width: 14px;
+    height: 14px;
+    background: transparent;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    margin-bottom: 60px;
+}
+.features__right{
+    font-family: "Bebas Neue";
+    color: #ffffff;
+    margin-top: 130px;
+    margin-left: 700px;
+}
+.features__home{
+    font-size: 24px;
+    letter-spacing: 3px;
+}
+.features__left{
+    position: absolute;
+    top: 210px;
+    margin-left: 650px;
+}
+.features__title{
+    font-size: 80px;
+    margin-top: -40px;
+    letter-spacing: 3px;
+}
+.features__subtitle{
+    font-size: 36px;
+    color: #FFB548;    
+    letter-spacing: 3px;
+}
+.features__description{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 22px;
+    margin-top: -20px;
+}

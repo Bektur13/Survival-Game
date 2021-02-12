@@ -1,0 +1,61 @@
+.news{
+    background: url(../img/black__backside.jpg) no-repeat center top/cover;
+    padding-top: 50px;
+    position: relative;
+}
+.news__description{
+    max-width: 645px;
+    text-align: justify;
+    margin: 40px 0;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 22px;
+}
+.news__content{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.news__left{
+    padding-top: 100px;
+}
+.news__left{
+    color: #ffffff;
+}
+.news__title{
+    font-size: 80px;
+    font-family: "Bebas Neue";
+    margin-top: -30px;
+    margin-bottom: 50px;
+    letter-spacing: 3px;
+}
+.news__subtitle{
+    font-size: 24px;
+    font-family: "Bebas Neue";
+}
+.news__address{
+    font-size: 14px;
+    opacity: 0.5;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.mail{
+    color: #FFB548;
+    margin-left: 20px;
+    margin-top: -10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.news__mail{
+    height: 60px;
+    width: 260px;
+    background: #ffffff;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 5px;
+    margin-top: 28px;
+    margin-left: 70px;
+}
+.news__foot{
+    display:flex;
+    justify-content: space-around;
+    padding-bottom: 500px;
+}

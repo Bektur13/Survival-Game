@@ -1,0 +1,81 @@
+.system{
+    background: url(../img/System\ img.jpg) no-repeat center;
+    padding-top: 150px;
+}
+.system__subtitle{
+    text-align: center;
+    font-size: 24px;
+}
+.system__title{
+    margin-top: -20px;
+    text-align: center;
+    font-size: 70px;
+}
+.system__block{
+    margin-left: 10px;
+    margin-top: -430px;
+}
+.system__content{
+    font-family: "Bebas Neue";
+    color: #ffffff;
+    position: relative;
+}
+.system__subtitle{
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.system__title{
+    font-size: 80px;
+    margin-top: -30px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.system__demands{
+    font-size: 24px;
+    color: #FFB548;
+    letter-spacing: 2px;
+}
+.system__text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    max-width: 260px;
+    margin-top: -10px;
+}
+.system__description{
+    display: flex;
+    padding: 10px;
+}
+.system__description2{
+    display: flex;
+}
+.memory{
+    width: 265px;
+}
+.system__foot{
+    padding-bottom: 170px;
+}
+.system__line1{
+    height: 243px;
+    background:#979797;
+    width: 2px;
+    position: absolute;
+    left: 270px;
+    top: 198px;
+}
+.system__line2{
+    width: 573px;
+    background:#979797;
+    height: 2px;
+    position: absolute;
+    top: 315px;
+    left: 1px;
+}
+.system__line3{
+    width: 573px;
+    background:#979797;
+    height: 2px;
+    position: absolute;
+    top: 440px;
+    left: 1px;
+}

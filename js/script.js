@@ -1,0 +1,13 @@
+$(document).ready(function(){
+    $('.battle__right').slick({
+        arrows:true,
+        dots:true,
+        adaptiveHeight:true,
+        infinite:true,
+        autoplay:true,
+        autoplaySpeed:2000,
+        pauseOnFocus:true,
+        pauseOnHover:true,
+        pauseOnDotsHover:true,
+    });
+});
